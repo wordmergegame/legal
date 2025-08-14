@@ -4,11 +4,11 @@ This repository contains the official legal documents for **WordMerge**, an orig
 These documents are provided publicly to meet Apple App Store requirements and to ensure transparency for all players.
 
 ## 📄 Documents
-- **[Privacy Policy](https://wordmerge.github.io/legal/privacy.html)**  
+- **[Privacy Policy](https://wordmergegame.github.io/legal/privacy.html)**  
   Outlines how WordMerge handles user data.  
   *(Spoiler: we don’t collect, store, or share any personal data.)*
 
-- **[End User License Agreement (EULA)](https://wordmerge.github.io/legal/eula.html)**  
+- **[End User License Agreement (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)**  
   The terms that govern your use of the WordMerge app.
 
 ## ℹ️ About WordMerge
