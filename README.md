@@ -14,4 +14,4 @@ These documents are provided publicly to meet Apple App Store requirements and t
 ## ℹ️ About WordMerge
 WordMerge is an original word puzzle game that combines merging mechanics with creative gameplay. It is a trademark of Brendan Mislin.
 
-© 2025 Brendan Mislin. All rights reserved.
+© 2026 Brendan Mislin. All rights reserved.
